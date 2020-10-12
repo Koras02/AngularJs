@@ -1,0 +1,1 @@
+let ex = (a) => console.log(a);
